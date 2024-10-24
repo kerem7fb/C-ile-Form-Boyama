@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\uygulama9\uygulama9\bin\Debug\uygulama9.exe.config
+C:\Users\user\Desktop\10-M\uygulama9\uygulama9\bin\Debug\uygulama9.exe
+C:\Users\user\Desktop\10-M\uygulama9\uygulama9\bin\Debug\uygulama9.pdb
+C:\Users\user\Desktop\10-M\uygulama9\uygulama9\obj\Debug\uygulama9.Form1.resources
+C:\Users\user\Desktop\10-M\uygulama9\uygulama9\obj\Debug\uygulama9.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\uygulama9\uygulama9\obj\Debug\uygulama9.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\uygulama9\uygulama9\obj\Debug\uygulama9.exe
+C:\Users\user\Desktop\10-M\uygulama9\uygulama9\obj\Debug\uygulama9.pdb
+C:\Users\user\Desktop\10-M\uygulama9\uygulama9\obj\Debug\uygulama9.csprojResolveAssemblyReference.cache
